@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/img">
+        <file alias="new">img/new.png</file>
+        <file alias="open">img/open.png</file>
+        <file alias="save">img/save.png</file>
+        <file alias="italic">img/italic.png</file>
+        <file alias="bold">img/bold.png</file>
+        <file alias="underline">img/underline.png</file>
+    </qresource>
+</RCC>
